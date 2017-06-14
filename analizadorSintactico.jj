@@ -1,4 +1,5 @@
 options {Ignore_Case = false; }
+//por defecto es ll(1)
 
 PARSER_BEGIN (Analizador)
 public class Analizador {
